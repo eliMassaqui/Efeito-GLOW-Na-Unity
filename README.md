@@ -9,18 +9,14 @@ Este repositório mostra passo a passo como criar **efeitos de brilho (Glow)** e
 - Unity com URP (Universal Render Pipeline)
 - Shader Graph instalado
 - Post Processing ativado
-- Câmera com HDR ativado
 - Volume Global na cena
 
 ---
 
 ## 🌟 Passos para Criar o Efeito GLOW
 
-### 1. Criar o Shader com Emission
-- Abra o Shader Graph.
-- Use um **Color** multiplicado por um **Float** para controlar a intensidade.
-- Conecte no **Emission** do shader.
-- Salve e crie um material com esse shader.
+### 1. Criar o Material com Emission
+- Ative o **Emission** no Material.
 - Aplique o material no objeto desejado.
 
 ### 2. Ativar o Post Processing Bloom
@@ -29,10 +25,6 @@ Este repositório mostra passo a passo como criar **efeitos de brilho (Glow)** e
 - Marque como **Is Global**.
 - Adicione o efeito **Bloom** no Volume (pelo painel do Inspector).
 - Ajuste os valores para que o brilho apareça corretamente.
-
-### 3. Ativar HDR na Câmera
-- Selecione a Câmera principal.
-- No componente **Camera**, ative a opção **HDR**.
 
 ---
 
