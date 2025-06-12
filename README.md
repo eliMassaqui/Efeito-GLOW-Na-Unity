@@ -1,4 +1,4 @@
-# ✨ Efeito GLOW na Unity (Shader Graph + Bloom)
+# ✨ Efeito GLOW na Unity (Vulomue Profile + Bloom)
 
 Este repositório mostra passo a passo como criar **efeitos de brilho (Glow)** em objetos usando apenas **Volume Profile** com o **Bloom do Post Processing** na Unity.
 
