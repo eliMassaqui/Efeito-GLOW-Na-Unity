@@ -42,6 +42,10 @@ Este repositório mostra passo a passo como criar **efeitos de brilho (Glow)** e
 
 ![Glow Effect Preview](https://github.com/eliMassaqui/Efeito-GLOW-Na-Unity/blob/main/Captura%20de%20ecr%C3%A3%202025-06-12%20101710.png)
 
+-
+![](https://github.com/eliMassaqui/Efeito-GLOW-Na-Unity/blob/main/undefined_Unity_Glow_Effect_Steps.png)
+
+
 > Demonstração do efeito Glow com cor verde aplicado a um objeto.
 
 ---
