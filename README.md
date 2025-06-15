@@ -56,5 +56,5 @@ https://www.youtube.com/watch?v=bkPe1hxOmbI
 ---
 
 Dica:
-entao pra um objeto estar no modo GLOW basta ter ele com material no modo emission e ativar o pos processamento pra global
+entao pra um objeto estar no modo GLOW basta ter ele com material no modo emission e ativar o pos processamento pra global no volume global
 
